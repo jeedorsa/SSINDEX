@@ -1,0 +1,4 @@
+query,business_name,review_rating,review_text,review_photos,review_tags,datetime_utc,timestamp,review_id,author_title,author_friend_count,author_photo_count,author_reviews_count,author_location,author_image,author_id,author_url,owner_reply,owner_reply_title,owner_reply_datetime_utc,owner_reply_timestamp,next_page_cursor
+https://www.yelp.com/biz/m-and-t-bank-brookfield?osq=M&T bank,M&T Bank,1,"Spent an hour looking over their $400 cash bonus offer. Read all 6 footnotes and nowhere does it mention that you have to maintain a $7500 minimum balance that pays 0.01 percent interest. 
+What a scam. 
+Two neighbors told me about unhappy experiences at M&T. Now I understand.",[],"{'helpful': 0, 'thanks': 0, 'love_this': 0, 'oh_no': 0}",02/21/2024 20:42:59,1708548179,V7m0aVywH3R53dXxNJ04aQ,Paul R.,0,0,15,"Brookfield, CT",,TulEtygXDB5-2_-hvmMz6g,https://www.yelp.com/user_details?userid=TulEtygXDB5-2_-hvmMz6g,,,,,
